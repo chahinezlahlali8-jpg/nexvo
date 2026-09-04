@@ -30,6 +30,12 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/dashboard/work-orders/page.js"
+    ],
+    "/dashboard/work-orders/[id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/dashboard/work-orders/[id]/page.css",
+      "static/chunks/app/dashboard/work-orders/[id]/page.js"
     ]
   }
 }
