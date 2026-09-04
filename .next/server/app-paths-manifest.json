@@ -3,5 +3,6 @@
   "/login/page": "app/login/page.js",
   "/dashboard/page": "app/dashboard/page.js",
   "/dashboard/work-orders/page": "app/dashboard/work-orders/page.js",
+  "/dashboard/settings/page": "app/dashboard/settings/page.js",
   "/dashboard/work-orders/[id]/page": "app/dashboard/work-orders/[id]/page.js"
 }
